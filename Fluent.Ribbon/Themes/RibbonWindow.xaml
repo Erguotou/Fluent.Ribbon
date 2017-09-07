@@ -74,6 +74,9 @@
                 <Setter Property="Opacity"
                         TargetName="PART_WindowCommands"
                         Value="0.5" />
+                <Setter Property="Opacity"
+                        TargetName="PART_RibbonTitleBar"
+                        Value="0.5" />
             </Trigger>
             <MultiTrigger>
                 <MultiTrigger.Conditions>
